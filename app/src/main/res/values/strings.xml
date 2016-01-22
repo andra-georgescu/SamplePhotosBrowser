@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Photos</string>
+    <string name="action_search">SEARCH</string>
+
+    <string name="shutterstock_base_url">"https://api.shutterstock.com"</string>
+    <string name="shutterstock_list_categories_endpoint">"/v2/images/categories"</string>
+    <string name="shutterstock_get_all_in_category_endpoint">"/v2/images/search?category=%1$s&amp;per_page=%2$s"</string>
+    <string name="shutterstock_search_query_endpoint">"/v2/images/search?query=%1$s&amp;per_page=%2$s"</string>
+
+    <string name="no_content">No images found.</string>
+</resources>
